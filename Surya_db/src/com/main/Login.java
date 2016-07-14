@@ -145,9 +145,9 @@ public class Login {
 		lblPassword.setBounds(31, 195, 84, 21);
 		frame.getContentPane().add(lblPassword);
 		
-		JLabel label = new JLabel("Vishant");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\workspace\\Surya_db\\src\\com\\images\\ICICI.jpg"));
-		label.setBounds(26, 11, 290, 112);
+		JLabel label = new JLabel("");
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\corejava_swings_bank_mangement_project\\Surya_db\\src\\com\\images\\ICICI.jpg"));
+		label.setBounds(31, 11, 290, 112);
 		frame.getContentPane().add(label);
 		
 	

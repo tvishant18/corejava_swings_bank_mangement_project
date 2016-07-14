@@ -112,8 +112,8 @@ public class Update_User_Password_window1 extends JPanel {
 		update_password.setBounds(488, 432, 227, 23);
 		add(update_password);
 		
-		JLabel label = new JLabel("New label");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\workspace\\Surya_db\\src\\com\\images\\ICICI.jpg"));
+		JLabel label = new JLabel("");
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\corejava_swings_bank_mangement_project\\Surya_db\\src\\com\\images\\ICICI.jpg"));
 		label.setBounds(447, 11, 288, 110);
 		add(label);
 		//setVisible( false);

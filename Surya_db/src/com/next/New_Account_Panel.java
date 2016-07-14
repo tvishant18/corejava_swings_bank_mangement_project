@@ -355,8 +355,8 @@ public class New_Account_Panel extends JPanel {
 		button_1.setBounds(0, 0, 70, 23);
 		add(button_1);
 		
-		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\workspace\\Surya_db\\src\\com\\images\\ICICI.jpg"));
+		JLabel lblNewLabel = new JLabel("");
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\corejava_swings_bank_mangement_project\\Surya_db\\src\\com\\images\\ICICI.jpg"));
 		lblNewLabel.setBounds(435, 0, 290, 86);
 		add(lblNewLabel);
 

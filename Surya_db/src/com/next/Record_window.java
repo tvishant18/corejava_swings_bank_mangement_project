@@ -62,8 +62,8 @@ public class Record_window extends JPanel {
 		HOME.setBounds(0, 0, 70, 23);
 		panel.add(HOME);
 		
-		JLabel label = new JLabel("New label");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\workspace\\Surya_db\\src\\com\\images\\ICICI.jpg"));
+		JLabel label = new JLabel("");
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\corejava_swings_bank_mangement_project\\Surya_db\\src\\com\\images\\ICICI.jpg"));
 		label.setBounds(274, 48, 288, 110);
 		panel.add(label);
 		

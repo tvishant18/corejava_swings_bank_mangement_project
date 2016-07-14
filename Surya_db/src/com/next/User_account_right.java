@@ -37,7 +37,7 @@ public class User_account_right extends JPanel {
 		
 		JLabel lblNewLabel = new JLabel("");
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\workspace\\Surya_db\\src\\com\\images\\ICICI 2.JPG"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\corejava_swings_bank_mangement_project\\Surya_db\\src\\com\\images\\ICICI 2.JPG"));
 		lblNewLabel.setBounds(178, 11, 756, 566);
 		panel.add(lblNewLabel);
 		

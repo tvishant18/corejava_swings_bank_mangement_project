@@ -66,8 +66,8 @@ public class Transaction_window extends JPanel {
 		customer_id_lbl.setBounds(370, 145, 115, 20);
 		panel.add(customer_id_lbl);
 		
-		JLabel lblNewLabel_1 = new JLabel("New label");
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\workspace\\Surya_db\\src\\com\\images\\ICICI.jpg"));
+		JLabel lblNewLabel_1 = new JLabel("");
+		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\corejava_swings_bank_mangement_project\\Surya_db\\src\\com\\images\\ICICI.jpg"));
 		lblNewLabel_1.setBounds(409, 11, 290, 109);
 		panel.add(lblNewLabel_1);
 		
@@ -159,8 +159,8 @@ public class Transaction_window extends JPanel {
 		tabbedPane.addTab("Withdrawl Cash", null, cashwithdrawl_button, null);
 		cashwithdrawl_button.setLayout(null);
 		
-		JLabel label = new JLabel("New label");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\workspace\\Surya_db\\src\\com\\images\\ICICI.jpg"));
+		JLabel label = new JLabel("");
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\corejava_swings_bank_mangement_project\\Surya_db\\src\\com\\images\\ICICI.jpg"));
 		label.setBounds(462, 34, 283, 104);
 		cashwithdrawl_button.add(label);
 		
@@ -405,8 +405,8 @@ public class Transaction_window extends JPanel {
 		account_no3_text.setBounds(561, 444, 193, 20);
 		panel_2.add(account_no3_text);
 		
-		JLabel label_1 = new JLabel("New label");
-		label_1.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\workspace\\Surya_db\\src\\com\\images\\ICICI.jpg"));
+		JLabel label_1 = new JLabel("");
+		label_1.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\corejava_swings_bank_mangement_project\\Surya_db\\src\\com\\images\\ICICI.jpg"));
 		label_1.setBounds(430, 54, 281, 105);
 		panel_2.add(label_1);
 

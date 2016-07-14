@@ -86,7 +86,7 @@ public class User_account_window {
 		splitPane.setRightComponent(new User_account_right());
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\workspace\\Surya_db\\src\\com\\images\\Admin.png"));
+		label.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\corejava_swings_bank_mangement_project\\Surya_db\\src\\com\\images\\Admin.png"));
 		label.setHorizontalAlignment(SwingConstants.CENTER);
 		
 		 unt3 = new JLabel("vish");

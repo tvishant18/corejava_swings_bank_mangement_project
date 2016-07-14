@@ -55,8 +55,8 @@ public class Account_statement_panel extends JPanel {
 		account_no_text1.setBounds(523, 278, 202, 20);
 		add(account_no_text1);
 		
-		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\workspace\\Surya_db\\src\\com\\images\\ICICI.jpg"));
+		JLabel lblNewLabel = new JLabel("");
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\vishant thakur\\git\\corejava_swings_bank_mangement_project\\Surya_db\\src\\com\\images\\ICICI.jpg"));
 		lblNewLabel.setBounds(397, 52, 288, 109);
 		add(lblNewLabel);
 		
